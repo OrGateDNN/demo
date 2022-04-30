@@ -1,4 +1,4 @@
 # demo
 tutorial for github
 
-\nwindows change
+windows change
